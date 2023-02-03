@@ -9,3 +9,15 @@
 .card{
     /* overflow: hidden; */
 }
+
+.input-group .input-group-text,
+.navbar  .navbar-brand {
+    white-space: normal;
+}
+.input-group .input-group-prepend {
+    max-width: 50%;
+}
+
+.input-group .form-control {
+    height: auto;
+}
